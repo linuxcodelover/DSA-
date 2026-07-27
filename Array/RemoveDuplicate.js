@@ -31,4 +31,4 @@ let removeDuplicate=(nums)=>{
 
 }
 
-removeDuplicate(nums)
+removeDuplicate(nums) 
